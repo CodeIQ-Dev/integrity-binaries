@@ -1,2 +1,2 @@
-# verifytool-binaries
-Version Records
+# VerifyTool Binaries
+Public Version Records
