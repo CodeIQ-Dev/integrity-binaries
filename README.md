@@ -1,2 +1,2 @@
-# VerifyTool Binaries
+# Integrity Binaries
 Public Version Records
