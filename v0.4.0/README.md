@@ -1,4 +1,4 @@
-# v0.4.0
+# v0.4.0 [is yet to be released]
 ##### [Fixed] False Positives in Removed and Renamed.
 ##### [Added Feature] Only scan specific file types in the target folder and ignore others.
 ##### [Removed] DUPLICATE label and its results.
